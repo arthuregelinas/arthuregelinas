@@ -1,16 +1,19 @@
-### Hi there 👋
+# Salut, je suis Arthure! 👋
 
-<!--
-**arthuregelinas/arthuregelinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Étudiante en informatique et génie logiciel à l'UQÀM.
+- 🌌 Artiste en arts visuels qui se spécialise en art numérique et en micro-électronique.
+- 🔐 Passionnée par les compétitions de cybersécurité.
 
-Here are some ideas to get you started:
+## 💬 Me contacter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 [LinkedIn](https://www.linkedin.com/in/arthure-gelinas/) pour des discussions sur l'art numérique.
+- 📧 [E-mail](mailto:arthuregelinas@gmail.com) pour des projets ou pour toutes questions.
+  
+## 🚀 Dernières compétitions
+- CSGames Saguenay 2023
+- NorthSec 2023
+- JFFI 2023
+- Hackfest 2023
+
+## Profil sur les plateformes de CTF
+- [CTF AGEEI](https://ctf.ageei.org/users/80)
