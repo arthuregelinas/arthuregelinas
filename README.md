@@ -15,5 +15,5 @@
 - JFFI 2023
 - Hackfest 2023
 
-### Profil sur les plateformes de CTF
+### 🧑‍💻 Profil sur les plateformes de CTF
 - [CTF AGEEI](https://ctf.ageei.org/users/80)
