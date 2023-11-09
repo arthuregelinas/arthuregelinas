@@ -10,6 +10,7 @@
 - 📧 [E-mail](mailto:arthuregelinas@gmail.com)
 
 ### 🧑‍💻 Profil sur les plateformes de CTF
+- [picoCTF](https://play.picoctf.org/users/arth-e)
 - [CTF AGEEI](https://ctf.ageei.org/users/80)
 
 ### 🚀 Dernières compétitions
